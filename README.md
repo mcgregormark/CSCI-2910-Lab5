@@ -8,3 +8,4 @@ Couldn't create a class named "Class" as things would get confusing, and i'm not
 I've run into some problems- i'm sure I just don't quite understand GETing from an API. The developer recommended GraphQL, so I will be reading up on that.<br>
 GraphQL is cool, but not what I need. I'll keep it in mind for future projects. In the meantime I'm going to figure out RESTful APIs like I should have from the start. Messing around with it did give me some ideas however, mostly having to do with the attributes I would like to get from the objects I pull from the API.<br>
 Started using Microsoft's documentation for help with this and it's made things much easier. Working on a GET method using C#'s asynchronous http client methods. <br>
+Throwing in the towel on this one. Started too late and there was too much material to cover. I do not have much to show since I spent all of my time researching and testing.
